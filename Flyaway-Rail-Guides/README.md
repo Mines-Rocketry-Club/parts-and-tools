@@ -12,4 +12,5 @@
 A high strength preset (one that uses many walls) should be used for these components. PLA is an acceptable material choice, provided that the rocket does not accelerate too quickly.
 2. Deburr the 1/4-inch holes around the periphery of the component.
 3. Using 1/4-20 threaded rod, cut three segments of the desired length.
-4. Using
+4. Using the cut segments and nuts, screw two nuts onto each end of the threaded rod about 1.5 inches.
+5. Insert the ends of the threaded segments into the peripheral holes and install the remaining nuts.
